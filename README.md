@@ -64,7 +64,7 @@ or use platforms like <a href="https://render.com/" target="_blank">Render</a> o
 
 <h2>📸 Preview</h2>
 <p align="center">
-  <img src="https://github.com/Raj96659/Laptop-Price-Predictor-Smart-ML-Web-App/blob/main/Screenshot%202025-10-30%20004753.png" width="300">
+  <img src="https://github.com/Raj96659/Laptop-Price-Predictor-Smart-ML-Web-App/blob/main/Screenshot%202025-10-30%20004753.png" width="500">
 </p>
 
 <h2>👨‍💻 Author</h2>
