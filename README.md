@@ -1,6 +1,6 @@
-# Laptop-Price-Predictor-Smart-ML-Web-App
 
-<h1 align="center">💻 Laptop Price Prediction App</h1>
+
+<h1 align="center">💻 Laptop-Price-Predictor-Smart-ML-Web-App</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Framework-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge">
@@ -35,18 +35,6 @@ This can assist in:
   <li><strong>Streamlit</strong> – For creating the web-based interface</li>
 </ul>
 
-<h2>🚀 How to Run Locally</h2>
-<pre>
-1. Clone this repository:
-   git clone https://github.com/yourusername/laptop-price-prediction.git
-   cd laptop-price-prediction
-
-2. Install required dependencies:
-   pip install -r requirements.txt
-
-3. Run the Streamlit app:
-   streamlit run app.py
-</pre>
 
 <h2>📂 Project Structure</h2>
 <pre>
@@ -81,12 +69,8 @@ or use platforms like <a href="https://render.com/" target="_blank">Render</a> o
 
 <h2>👨‍💻 Author</h2>
 <p>
-Developed by <strong>Your Name</strong>  
+Developed by <strong>Raj Sonawane</strong>  
 💼 <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">LinkedIn</a> | 
 💻 <a href="https://github.com/yourusername" target="_blank">GitHub</a>
 </p>
 
-<h2>📜 License</h2>
-<p>
-This project is licensed under the <strong>MIT License</strong> – feel free to use, modify, and share.
-</p>
